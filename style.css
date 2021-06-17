@@ -1,0 +1,72 @@
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.main{
+    background: #20B2AA;
+    background-size: cover;
+    display: flex;
+}
+
+.main .ul ul li{
+    padding: 20px 40px;
+}
+.main .logo button{
+    padding: 10px 20px;
+    border-radius: 180px;
+}
+.main .logo{
+    padding: 20px 80px;
+}
+.main .ul ul{
+    padding: 0 20px;
+    display: flex;
+}
+
+.main .ul ul li a{
+    color: white;
+}
+
+.main .log h3{
+    color: white;
+    text-align: center;
+    padding: 5px;
+}
+
+.main .ul{
+    padding: 10px;
+}
+.main .ul ul li h4{
+    color: white;
+    padding: 0 100px;
+}
+
+.main .search input {
+    padding: 10px 20px;
+    border-radius: 180px ;
+}
+.main .search{
+    padding: 20px 40px;
+}
+
+.qqq{
+    background: url("img/krona-chalet-resort-jasna-lake-1140-475.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.background h1{
+    text-align: center;
+    padding: 20px;
+
+}
+
+.background{
+    padding: 350px;
+}
+
+.background h1{
+    color: white;
+}
